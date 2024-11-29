@@ -1,6 +1,6 @@
 # Flask REST API
 
-<!-- cSpell:ignore venv -->
+<!-- cSpell:ignore venv (added this cause an error for venv came popping up) -->
 
 This project is a simple REST API built with Flask to manage a Product resource.
 
